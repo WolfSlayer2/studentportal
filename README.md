@@ -1,4 +1,4 @@
-# studentportal.github.io
+# studentportal
 
 ## Admin Login Details
 #### Email: admin@gmail.com
